@@ -1,2 +1,2 @@
 # AIML-Projects
-In this repo, I will be uploading projects on AIML from zero to hero.
+Here I will be showcasing the projects I make as I go on my AIML learning journey
